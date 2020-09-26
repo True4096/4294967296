@@ -519,7 +519,7 @@ hr {
     color: #f9f6f2;
     background: #0000ff;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1.0), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-    font-size: 3px; }
+    font-size: 5px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
         font-size: 3px; } }
